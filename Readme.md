@@ -1,6 +1,8 @@
 # Prototype Struct Chaining
 
 This repository implements a prototype solution for Struct Chaining in [Silk.Net](https://github.com/dotnet/Silk.NET)
+It has now moved to that repository, under [`/src/Lab/Experiments/PrototypeStructChaining`](https://github.com/dotnet/Silk.NET/blob/bd9f0eb0c1647622c012ea024b26159f24d593a9/src/Lab/Experiments/PrototypeStructChaining); and
+so this repository is archived.
 
 ## Design Goals
 
